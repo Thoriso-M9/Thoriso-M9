@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+<img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU0dGNzdGtiOWN1Nnl1MWkyaHh5c3ZhdWZ6a2x2ZjFoZDEwbHp6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/poP0geAnZXDQyQ08WX/giphy.gif" width="100%" />
 
 # 👋 Hey there, I'm *Thoriso-M9!* ⚽💻
 

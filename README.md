@@ -28,13 +28,15 @@ Welcome to my GitHub profile! I'm a Information Technology student, tech enthusi
 
 ---
 ## 🎯 Current Goals
--🏃 Run 5km and complete fitness challenges
--💰 Monetize my Spotify curator content
+
+- 🏃 Run 5km and complete fitness challenges
+- 💰 Monetize my Spotify curator content
 
 ---
 ## ⚡ Fun Facts
--🏰 I'm obsessed with medieval history… especially the weird parts!
--🍫 I have a soft spot for popcorn, especially in the morning
--⚽ I treat coding like football: strategic, technical, and goal-driven
+
+- 🏰 I'm obsessed with medieval history… especially the weird parts!
+- 🍫 I have a soft spot for popcorn, especially in the morning
+- ⚽ I treat coding like football: strategic, technical, and goal-driven
 
 ---

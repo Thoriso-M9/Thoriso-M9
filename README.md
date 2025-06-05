@@ -1,41 +1,40 @@
-# 👋 Hey there, I'm Thoriso-M9!
+<img align="center" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 
-Welcome to my GitHub profile! I'm a creative tech enthusiast passionate about fitness, soccer, movies, and music and real-world utility into engaging digital experiences.
+# 👋 Hey there, I'm *Thoriso-M9!* ⚽💻
 
----
-
-## 🎮 FIFA  | 🧠 Student | 💻 Developer | 🎧 Lover of Music
-
-### 🚀 About Me:
-- 📍 South Africa-based Computing student @ *Belgium Campus*
-- 🎵 Music lover (R&B + Amapiano fan), Spotify playlist curator & aspiring monetizer
-- ⚽ Manchester City fan (Kevin De Bruyne supremacy!)
-- 🛹 I like to play soccer, draw, and watch movies in my downtime
+Welcome to my GitHub profile! I'm a *Computing student, tech enthusiast, and **soccer fanatic* passionate about blending *code and creativity* to build real-world solutions, fun games, and engaging user experiences.
 
 ---
 
-### 🧰 Tech Stack
-- *Languages*: JavaScript, Python, SQL, C#, HTML/CSS
-- *Database*: MySQL, ER Diagrams, Normalization, Stored Procedures
-- *Web Dev*: HTML, CSS, JS
-- *Tools*: Git, GitHub, Figma, Canva, VS Code
+### 🎮 FIFA Addict | 👨‍💻 Developer | 🎧 R&B & Amapiano Lover | ⚙ Always Learning
 
 ---
 
-### 📈 Current Goals
-- Improve my fitness 🏃‍♂🔥
-- Monetize music curation via Spotify
+## 🧠 About Me
+
+- 📍 Based in South Africa, studying *Computing @ Belgium Campus*
+- 🎧 Curate *Spotify playlists* (R&B + Amapiano) and exploring monetization
+- ⚽ Proud *Manchester City* supporter (Kevin De Bruyne supremacy!)
+- 🕹 Gamer + storyteller, especially into *FIFA & medieval facts*
+- 🧾 StudyPool contributor, helping students with learning materials
+- 🏋 Focused on improving my *fitness* and building fitness-based apps
 
 ---
+## 🧰 Tech Stack
 
-### 🎯 Fun Facts
-- 🧠 I like learning about medieval history… but with a twist
-- 🍬 I have a sweet tooth and a soft spot for chocolate in the morning
+- Languages:     JavaScript, Python, SQL, C#, HTML/CSS
+- Database:      MySQL, ER Diagrams, Normalization, Stored Procedures
+- Game Dev:      Godot Engine (GDScript)
+- Web Dev:       HTML, CSS, JS
+- Tools:         Git, GitHub, Figma, Canva, VS Code
+
+  ---
+  🎯 Current Goals
+-🏃 Run 5km and complete fitness challenges
+-💰 Monetize my Spotify curator content
 
 ---
-
-### 📫 Let's Connect!
-- 💼 LinkedIn: 
-
-
-
+⚡ Fun Facts
+-🏰 I'm obsessed with medieval history… especially the weird parts!
+-🍫 I have a soft spot for popcorn, especially in the morning
+-⚽ I treat coding like football: strategic, technical, and goal-driven
